@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.footer_outer-wrapper{
+    background-color:transparent;
+    padding: 15px 0%;
+}
+.footer_left{
+    display: flex;
+    padding-left: 200px;
+}
+.icons{
+    color: white;
+}
+.footer_data{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Data li{
+    margin-top: 20px;
+   font-weight: lighter;
+   color: rgba(255, 255, 255, 0.557);
+   font-size: 15px;
+
+}
+
